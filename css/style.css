@@ -532,112 +532,7 @@ body {
 #body .content form #submit:hover {
 	background-position: 0 -43px;
 }
-#body #blog {
-	float: left;
-	margin: 0 32px 0 0;
-	padding: 0;
-	width: 620px;
-}
-#body #blog div {
-	margin: 0;
-	padding: 0 0 30px 0;
-}
-#body #blog > div {
-	padding: 0 0 30px;
-}
-#body #blog div span {
-	border-bottom: 2px solid #ffe600;
-	color: #767676;
-	display: block;
-	font-size: 12px;
-	margin: 0 0 25px 20px;
-	padding: 0 0 28px;
-	text-transform: uppercase;
-}
-#body #blog div div {
-	overflow: hidden;
-}
-#body #blog .figure {
-	float: left;
-	margin: 0;
-	padding: 0 0 0 20px;
-	text-align: center;
-	width: 211px;
-}
-#body #blog .figure a {
-	display: block;
-	margin: 0;
-	padding: 0;
-}
-#body #blog .figure a:hover {
-	opacity: 0.8;
-}
-#body #blog .figure img {
-	border: 1px solid #fff;
-	display: block;
-}
-#body #blog .figure a {
-	color: #94acb3;
-	line-height: 28px;
-	text-decoration: none;
-	text-transform: capitalize;
-}
-#body #blog .figure a:hover {
-	color: #386370;
-}
-#body #blog .article {
-	float: left;
-	margin: 0;
-	padding: 0 0 5px 20px;
-	width: 369px;
-}
-#body #blog .article h3 {
-	color: #97aeb3;
-	font-size: 18px;
-	margin: 0;
-	padding: 0 0 14px;
-}
-#body #blog .article p {
-	color: #767676;
-	line-height: 30px;
-	margin: 0;
-	padding: 0 0 30px;
-}
-#body #blog .article p a {
-	color: #767676;
-	text-decoration: underline;
-}
-#body #blog .article p a:hover {
-	color: #333;
-}
-#body #blog .article .more {
-	color: #94acb3;
-	display: block;
-	font-size: 14px;
-	font-weight: bold;
-	text-decoration: none;
-	text-transform: uppercase;
-	width: 95px;
-}
-#body #blog .article .more:hover {
-	text-decoration: underline;
-}
-#body #blog .stats {
-	background: #ffe600;
-	color: #767676;
-	font-size: 11px;
-	font-weight: bold;
-	margin: 0 0 0 10px;
-	padding: 10px 0 10px 355px;
-}
-#body #blog .stats a {
-	color: #767676;
-	font-style: normal;
-	text-decoration: none;
-}
-#body #blog .stats a:hover {
-	text-decoration: underline;
-}
+
 #body #sidebar {
 	float: left;
 	margin: 0;
@@ -729,28 +624,23 @@ body {
 	margin: 0 12px 0 0;
 	padding: 0;
 }
-#footer div ul li a {
-	background: url(../images/icons.png) no-repeat;
-	display: block;
-	height: 27px;
-	margin: 0;
-	padding: 0;
-	text-indent: -99999px;
-	width: 27px;
-}
-#footer div ul #facebook a {
+#footer div ul #github a {
 	background-position: 0 0;
+	background-size: 32px 32px;
+	display: block;
+	height: 32px;
+	width: 32px;
 }
-#footer div ul #facebook a:hover {
+#footer div ul #github a:hover {
 	background-position: -32px 0;
 }
-#footer div ul #twitter a {
+#footer div ul #zhihu a {
 	background-position: 0 -37px;
 }
-#footer div ul #twitter a:hover {
+#footer div ul #zhihu a:hover {
 	background-position: -32px -37px;
 }
-#footer div ul #googleplus a {
+/* #footer div ul #googleplus a {
 	background-position: 0 -74px;
 }
 #footer div ul #googleplus a:hover {
@@ -761,4 +651,4 @@ body {
 }
 #footer div ul #rss a:hover {
 	background-position: -32px -111px;
-}
+} */
