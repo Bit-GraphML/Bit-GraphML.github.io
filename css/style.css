@@ -3,7 +3,6 @@
 @font-face {
 	font-family: 'Conv_Ubuntu-Light';
 	src: url('../fonts/Ubuntu-Light.eot');
-	src: url('../fonts/Ubuntu-Light.woff') format('woff'), url('../fonts/Ubuntu-Light.ttf') format('truetype'), url('../fonts/Ubuntu-Light.svg') format('svg');
 }
 body {
 	background: url(../images/bg-body.jpg) repeat;
