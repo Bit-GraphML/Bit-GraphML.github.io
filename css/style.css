@@ -25,7 +25,7 @@ body {
 	height: 74px;
 	margin: 0 auto 22px;
 	padding: 0;
-	width: 296px;
+	width: 450px;
 }
 #header a.logo img {
 	border: 0;
@@ -69,7 +69,7 @@ body {
 	background: 	url(../images/dots.png) repeat-x left bottom;
 }
 #section {
-	background: url(../images/chemist.png) no-repeat center top;
+	background: url(../images/school.jpg) no-repeat center top;
 	border-bottom: 2px solid #ffe600;
 	height: 571px;
 	margin: 0 0 2px;
@@ -81,14 +81,14 @@ body {
 	width: 960px;
 }
 #section div div {
-	background: url(../images/bg-heading.png) repeat;
+	background-color: rgba(0,0,0,0.5);
 	height: 161px;
 	margin: 0 0 0 10px;
 	padding: 33px 22px 33px 18px;
 	width: 411px;
 }
 #section div div h1 {
-	color: #94acb3;
+	color: #ffffff;
 	font-size: 30px;
 	font-weight: normal;
 	letter-spacing: 3px;
@@ -97,7 +97,7 @@ body {
 	text-transform: uppercase;
 }
 #section div div p {
-	color: #94acb3;
+	color: #ffffff;
 	font-size: 16px;
 	line-height: 36px;
 	margin: 0;
@@ -114,7 +114,7 @@ body {
 	background: url(../images/bg-content.jpg) repeat;
 }
 #featured {
-	background: url(../images/bg-content.jpg) repeat;
+	
 	margin: 0;
 	padding: 0;
 }
@@ -238,7 +238,6 @@ body {
 	display: block;
 }
 #body {
-	background: url(../images/bg-content.jpg) repeat;
 	margin: 0 auto;
 	min-height: 1100px;
 	overflow: hidden;
